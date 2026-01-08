@@ -44,6 +44,7 @@ Sem uso de frameworks, priorizando performance e clareza de código.
 
 ## 📁 Estrutura de Arquivos
 
+```
 horizonte-psicoterapia/
 │
 ├── index.html
@@ -53,7 +54,7 @@ horizonte-psicoterapia/
 │ └── main.js
 └── assets/
 └── images/
-
+```
 
 ---
 

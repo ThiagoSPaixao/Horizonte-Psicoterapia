@@ -9,3 +9,23 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+/* =========================
+    VARIÁVEIS GLOBAIS
+========================= */
+
+:root {
+    --color-primary: #2f6f6d;
+    --color-secondary: #f0f4f3;
+    --color-accent: #8fb9b7;
+
+    --color-text: #1f2933;
+    --color-text-light: #6b7280;
+    --color-white: #ffffff;
+
+    --font-heading: 'Playfair Display', serif;
+    --font-body: 'Inter', sans-serif;
+
+    --container-width: 1200px;
+    --section-padding: 80px;
+}
